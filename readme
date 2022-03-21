@@ -1,0 +1,4 @@
+# ======================== data descriptions =================================
+	This is the index trading and index members information of CSI 500. 
+	"INDEX.csv" contains the "Trading_Data/The percentage of Price Change compared to the day before/Trading Volume"
+	"index_members.csv" contains the information of index members, including "stock code/ when the stock includes CSI 500/ when the stock excludes CSI 500"
